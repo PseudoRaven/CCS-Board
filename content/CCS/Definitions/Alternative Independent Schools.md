@@ -1,0 +1,4 @@
+---
+aliases:
+  - alternative independent schools
+---

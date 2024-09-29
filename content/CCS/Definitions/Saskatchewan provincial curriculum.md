@@ -1,0 +1,4 @@
+---
+aliases:
+  - provincial curriculum
+---

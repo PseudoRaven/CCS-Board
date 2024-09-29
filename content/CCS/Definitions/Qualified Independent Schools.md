@@ -1,0 +1,4 @@
+---
+aliases:
+  - qualified independent schools
+---

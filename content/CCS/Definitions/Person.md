@@ -1,0 +1,6 @@
+---
+aliases:
+  - person
+  - persons
+  - individual
+---

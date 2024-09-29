@@ -1,0 +1,4 @@
+---
+aliases:
+  - inter alia
+---
